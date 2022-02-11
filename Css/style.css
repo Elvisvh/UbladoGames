@@ -1,0 +1,16 @@
+*{
+    font-family: 'Abel', sans-serif;
+}
+
+.main{
+    font-family: 'Abel', sans-serif;
+    width: 600px;
+    margin-left: 40px;
+}
+
+@media only screen and (max-width: 600px){
+    .main{
+        width: 90%;
+        margin-left: 15px;
+    }
+}
